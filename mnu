@@ -1,0 +1,43 @@
+mnuParent
+	url ?
+Items
+mnuItem 
+	Name
+	Url 
+	
+
+
+
+
+	Menu Template ? 
+
+
+
+
+Menus.js 
+
+	LoadMenus
+	EditMenus
+	SaveMenus
+
+	URL = ""
+
+
+top
+menus
+content 
+info
+
+
+Create Account 
+	AccountName 
+	User Name
+	email
+//system Id
+
+
+TODO
+
+Fixa nicedit- 
+Anv skapar konto + sida
+ajax load av sidor.
